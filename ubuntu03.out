@@ -1,0 +1,393 @@
+01:49:16,658 root DEBUG ================WECHAT CHINESE ENVELOPE GAME===============
+01:49:16,674 root DEBUG Sending red envelope | REQUEST ID - 5f207049-2888-46ac-afdf-0edbab1b722b | SENDER - ubuntu03 | AMOUNT- 66 TIMESTAMP 1
+01:49:18,318 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - b879f958-1080-4783-993e-ce993b9b3ea3 | SENDER- ubuntu01 | AMOUNT- 64 TIMESTAMP- 6
+01:49:18,320 root DEBUG Receiving ACK message | REQUEST ID - b879f958-1080-4783-993e-ce993b9b3ea3 | SENDER- ubuntu01 | AMOUNT - 64 | TIMESTAMP- 9
+01:49:18,677 root DEBUG Sending red envelope | REQUEST ID - c87a31b3-bb13-43f6-8565-8d45d9712b3e | SENDER - ubuntu03 | AMOUNT- 195 TIMESTAMP 10
+01:49:20,238 root DEBUG Sending ACK message | REQUEST ID - c87a31b3-bb13-43f6-8565-8d45d9712b3e | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 195| TIMESTAMP- 14
+01:49:20,680 root DEBUG Sending red envelope | REQUEST ID - 0b091933-580c-4df1-87cf-36cf8678dfef | SENDER - ubuntu03 | AMOUNT- 129 TIMESTAMP 15
+01:49:20,734 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - 2f60d45f-9778-43f3-8660-97540e81db1d | SENDER- ubuntu02 | AMOUNT- 68 TIMESTAMP- 17
+01:49:20,735 root DEBUG Receiving ACK message | REQUEST ID - 2f60d45f-9778-43f3-8660-97540e81db1d | SENDER- ubuntu01 | AMOUNT - 68 | TIMESTAMP- 20
+01:49:20,736 root DEBUG Receiving ACK message | REQUEST ID - 2f60d45f-9778-43f3-8660-97540e81db1d | SENDER- ubuntu02 | AMOUNT - 68 | TIMESTAMP- 21
+01:49:20,737 root DEBUG Sending Release resource message | REQUEST ID - 2f60d45f-9778-43f3-8660-97540e81db1d | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT-68| TIMESTAMP- 22
+01:49:20,738 root DEBUG Received envelope money| REQUEST ID - 2f60d45f-9778-43f3-8660-97540e81db1d | AMOUNT - 68| RECEIVER - ubuntu03
+01:49:20,875 root DEBUG Sending ACK message | REQUEST ID - 0b091933-580c-4df1-87cf-36cf8678dfef | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 129| TIMESTAMP- 28
+01:49:20,876 root DEBUG Received envelope money| REQUEST ID - 0b091933-580c-4df1-87cf-36cf8678dfef | AMOUNT - 129| RECEIVER - ubuntu01
+01:49:21,571 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - cd2983be-e25c-45d3-9de9-abf2a24b5541 | SENDER- ubuntu01 | AMOUNT- 113 TIMESTAMP- 38
+01:49:21,573 root DEBUG Receiving ACK message | REQUEST ID - cd2983be-e25c-45d3-9de9-abf2a24b5541 | SENDER- ubuntu01 | AMOUNT - 113 | TIMESTAMP- 41
+01:49:21,573 root DEBUG Receiving ACK message | REQUEST ID - cd2983be-e25c-45d3-9de9-abf2a24b5541 | SENDER- ubuntu02 | AMOUNT - 113 | TIMESTAMP- 42
+01:49:21,574 root DEBUG Sending Release resource message | REQUEST ID - cd2983be-e25c-45d3-9de9-abf2a24b5541 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT-113| TIMESTAMP- 43
+01:49:21,575 root DEBUG Received envelope money| REQUEST ID - cd2983be-e25c-45d3-9de9-abf2a24b5541 | AMOUNT - 113| RECEIVER - ubuntu03
+01:49:22,683 root DEBUG Sending red envelope | REQUEST ID - 94734846-44a6-47cb-9be6-6c83bb97bd85 | SENDER - ubuntu03 | AMOUNT- 163 TIMESTAMP 48
+01:49:24,295 root DEBUG Sending ACK message | REQUEST ID - 5f207049-2888-46ac-afdf-0edbab1b722b | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 66| TIMESTAMP- 50
+01:49:24,296 root DEBUG Received envelope money| REQUEST ID - 5f207049-2888-46ac-afdf-0edbab1b722b | AMOUNT - 66| RECEIVER - ubuntu01
+01:49:24,686 root DEBUG Sending red envelope | REQUEST ID - 77ab7bcc-3283-450f-9f32-7ec2d1cea0de | SENDER - ubuntu03 | AMOUNT- 26 TIMESTAMP 56
+01:49:24,843 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - 48803546-92b7-4101-a661-1b7852579d8a | SENDER- ubuntu02 | AMOUNT- 57 TIMESTAMP- 58
+01:49:24,844 root DEBUG Receiving ACK message | REQUEST ID - 48803546-92b7-4101-a661-1b7852579d8a | SENDER- ubuntu01 | AMOUNT - 57 | TIMESTAMP- 61
+01:49:24,844 root DEBUG Receiving ACK message | REQUEST ID - 48803546-92b7-4101-a661-1b7852579d8a | SENDER- ubuntu02 | AMOUNT - 57 | TIMESTAMP- 62
+01:49:24,845 root DEBUG Sending Release resource message | REQUEST ID - 48803546-92b7-4101-a661-1b7852579d8a | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT-57| TIMESTAMP- 63
+01:49:24,845 root DEBUG Received envelope money| REQUEST ID - 48803546-92b7-4101-a661-1b7852579d8a | AMOUNT - 57| RECEIVER - ubuntu03
+01:49:25,104 root DEBUG Sending ACK message | REQUEST ID - 94734846-44a6-47cb-9be6-6c83bb97bd85 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 163| TIMESTAMP- 69
+01:49:25,106 root DEBUG Received envelope money| REQUEST ID - 94734846-44a6-47cb-9be6-6c83bb97bd85 | AMOUNT - 163| RECEIVER - ubuntu01
+01:49:25,298 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - 92959848-cd9e-4f1c-a8ba-620a524cc4a9 | SENDER- ubuntu01 | AMOUNT- 131 TIMESTAMP- 76
+01:49:25,299 root DEBUG Receiving ACK message | REQUEST ID - 92959848-cd9e-4f1c-a8ba-620a524cc4a9 | SENDER- ubuntu01 | AMOUNT - 131 | TIMESTAMP- 79
+01:49:25,299 root DEBUG Receiving ACK message | REQUEST ID - 92959848-cd9e-4f1c-a8ba-620a524cc4a9 | SENDER- ubuntu02 | AMOUNT - 131 | TIMESTAMP- 80
+01:49:25,300 root DEBUG Sending Release resource message | REQUEST ID - 92959848-cd9e-4f1c-a8ba-620a524cc4a9 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT-131| TIMESTAMP- 81
+01:49:25,301 root DEBUG Received envelope money| REQUEST ID - 92959848-cd9e-4f1c-a8ba-620a524cc4a9 | AMOUNT - 131| RECEIVER - ubuntu03
+01:49:25,492 root DEBUG Sending ACK message | REQUEST ID - 77ab7bcc-3283-450f-9f32-7ec2d1cea0de | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 26| TIMESTAMP- 87
+01:49:25,493 root DEBUG Received envelope money| REQUEST ID - 77ab7bcc-3283-450f-9f32-7ec2d1cea0de | AMOUNT - 26| RECEIVER - ubuntu02
+01:49:25,514 root DEBUG Sending ACK message | REQUEST ID - b2424485-9e88-41dc-9ccc-526e53ba9d58 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 173| TIMESTAMP- 98
+01:49:25,515 root DEBUG Received envelope money| REQUEST ID - b2424485-9e88-41dc-9ccc-526e53ba9d58 | AMOUNT - 173| RECEIVER - ubuntu02
+01:49:25,516 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - b2424485-9e88-41dc-9ccc-526e53ba9d58 | SENDER- ubuntu01 | AMOUNT- 173 TIMESTAMP- 103
+01:49:25,517 root DEBUG Receiving ACK message | REQUEST ID - b2424485-9e88-41dc-9ccc-526e53ba9d58 | SENDER- ubuntu01 | AMOUNT - 173 | TIMESTAMP- 106
+01:49:25,517 root DEBUG Receiving ACK message | REQUEST ID - b2424485-9e88-41dc-9ccc-526e53ba9d58 | SENDER- ubuntu02 | AMOUNT - 173 | TIMESTAMP- 108
+01:49:25,956 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - f9529d2a-d7aa-4670-931b-1e6b773f7781 | SENDER- ubuntu02 | AMOUNT- 36 TIMESTAMP- 110
+01:49:25,956 root DEBUG Receiving ACK message | REQUEST ID - f9529d2a-d7aa-4670-931b-1e6b773f7781 | SENDER- ubuntu01 | AMOUNT - 36 | TIMESTAMP- 113
+01:49:25,956 root DEBUG Receiving ACK message | REQUEST ID - f9529d2a-d7aa-4670-931b-1e6b773f7781 | SENDER- ubuntu02 | AMOUNT - 36 | TIMESTAMP- 114
+01:49:25,957 root DEBUG Sending Release resource message | REQUEST ID - f9529d2a-d7aa-4670-931b-1e6b773f7781 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT-36| TIMESTAMP- 115
+01:49:25,958 root DEBUG Received envelope money| REQUEST ID - f9529d2a-d7aa-4670-931b-1e6b773f7781 | AMOUNT - 36| RECEIVER - ubuntu03
+01:49:26,689 root DEBUG Sending red envelope | REQUEST ID - 71e4b41a-b277-4fe3-9a60-dfead64bd931 | SENDER - ubuntu03 | AMOUNT- 121 TIMESTAMP 120
+01:49:27,297 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - e364d2e5-ccce-4f80-a7a3-97db5d109dfd | SENDER- ubuntu01 | AMOUNT- 109 TIMESTAMP- 122
+01:49:27,298 root DEBUG Receiving ACK message | REQUEST ID - e364d2e5-ccce-4f80-a7a3-97db5d109dfd | SENDER- ubuntu01 | AMOUNT - 109 | TIMESTAMP- 125
+01:49:27,299 root DEBUG Receiving ACK message | REQUEST ID - e364d2e5-ccce-4f80-a7a3-97db5d109dfd | SENDER- ubuntu02 | AMOUNT - 109 | TIMESTAMP- 126
+01:49:27,299 root DEBUG Sending Release resource message | REQUEST ID - e364d2e5-ccce-4f80-a7a3-97db5d109dfd | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT-109| TIMESTAMP- 127
+01:49:27,300 root DEBUG Received envelope money| REQUEST ID - e364d2e5-ccce-4f80-a7a3-97db5d109dfd | AMOUNT - 109| RECEIVER - ubuntu03
+01:49:28,692 root DEBUG Sending red envelope | REQUEST ID - c1b460fd-0f2e-42ca-bea4-9f42e1180b26 | SENDER - ubuntu03 | AMOUNT- 20 TIMESTAMP 132
+01:49:28,752 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - 00171b3a-4d8d-4486-8a01-13238439b1b3 | SENDER- ubuntu02 | AMOUNT- 174 TIMESTAMP- 134
+01:49:28,753 root DEBUG Receiving ACK message | REQUEST ID - 00171b3a-4d8d-4486-8a01-13238439b1b3 | SENDER- ubuntu02 | AMOUNT - 174 | TIMESTAMP- 137
+01:49:28,753 root DEBUG Receiving ACK message | REQUEST ID - 00171b3a-4d8d-4486-8a01-13238439b1b3 | SENDER- ubuntu01 | AMOUNT - 174 | TIMESTAMP- 138
+01:49:28,753 root DEBUG Sending Release resource message | REQUEST ID - 00171b3a-4d8d-4486-8a01-13238439b1b3 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT-174| TIMESTAMP- 139
+01:49:28,754 root DEBUG Received envelope money| REQUEST ID - 00171b3a-4d8d-4486-8a01-13238439b1b3 | AMOUNT - 174| RECEIVER - ubuntu03
+01:49:29,29 root DEBUG Sending ACK message | REQUEST ID - 71e4b41a-b277-4fe3-9a60-dfead64bd931 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 121| TIMESTAMP- 145
+01:49:29,30 root DEBUG Received envelope money| REQUEST ID - 71e4b41a-b277-4fe3-9a60-dfead64bd931 | AMOUNT - 121| RECEIVER - ubuntu01
+01:49:29,167 root DEBUG Sending ACK message | REQUEST ID - c1b460fd-0f2e-42ca-bea4-9f42e1180b26 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 20| TIMESTAMP- 156
+01:49:29,168 root DEBUG Received envelope money| REQUEST ID - c1b460fd-0f2e-42ca-bea4-9f42e1180b26 | AMOUNT - 20| RECEIVER - ubuntu01
+01:49:29,419 root DEBUG Sending ACK message | REQUEST ID - 1a55a904-c69a-433d-9af4-9f5ace762e17 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 170| TIMESTAMP- 165
+01:49:29,420 root DEBUG Received envelope money| REQUEST ID - 1a55a904-c69a-433d-9af4-9f5ace762e17 | AMOUNT - 170| RECEIVER - ubuntu02
+01:49:30,260 root DEBUG Sending ACK message | REQUEST ID - d6a5c395-5634-4023-af7e-afb7949e1604 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 105| TIMESTAMP- 175
+01:49:30,261 root DEBUG Received envelope money| REQUEST ID - d6a5c395-5634-4023-af7e-afb7949e1604 | AMOUNT - 105| RECEIVER - ubuntu01
+01:49:30,695 root DEBUG Sending red envelope | REQUEST ID - 4e78d48f-2ff5-46cf-906c-e1281b6c4b3b | SENDER - ubuntu03 | AMOUNT- 179 TIMESTAMP 181
+01:49:30,741 root DEBUG Sending ACK message | REQUEST ID - 01c053f4-3798-431c-ae84-74da6eda87db | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 82| TIMESTAMP- 186
+01:49:30,743 root DEBUG Received envelope money| REQUEST ID - 01c053f4-3798-431c-ae84-74da6eda87db | AMOUNT - 82| RECEIVER - ubuntu01
+01:49:31,932 root DEBUG Sending ACK message | REQUEST ID - d0c8d8d8-a67b-4f1e-a757-83c66f94e629 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 22| TIMESTAMP- 198
+01:49:31,933 root DEBUG Received envelope money| REQUEST ID - d0c8d8d8-a67b-4f1e-a757-83c66f94e629 | AMOUNT - 22| RECEIVER - ubuntu02
+01:49:32,137 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:49:32,182 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:49:32,655 root DEBUG Sending ACK message | REQUEST ID - 4e78d48f-2ff5-46cf-906c-e1281b6c4b3b | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 179| TIMESTAMP- 210
+01:49:32,656 root DEBUG Received envelope money| REQUEST ID - 4e78d48f-2ff5-46cf-906c-e1281b6c4b3b | AMOUNT - 179| RECEIVER - ubuntu02
+01:49:32,698 root DEBUG Sending red envelope | REQUEST ID - 8a6ed55b-300b-4dd9-8622-0157edc067b5 | SENDER - ubuntu03 | AMOUNT- 24 TIMESTAMP 216
+01:49:32,708 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - 5a96fcb0-b174-48df-972c-8dbf302aa952 | SENDER- ubuntu02 | AMOUNT- 105 TIMESTAMP- 218
+01:49:32,709 root DEBUG Receiving ACK message | REQUEST ID - 5a96fcb0-b174-48df-972c-8dbf302aa952 | SENDER- ubuntu02 | AMOUNT - 105 | TIMESTAMP- 221
+01:49:32,710 root DEBUG Receiving ACK message | REQUEST ID - 5a96fcb0-b174-48df-972c-8dbf302aa952 | SENDER- ubuntu01 | AMOUNT - 105 | TIMESTAMP- 222
+01:49:32,710 root DEBUG Sending Release resource message | REQUEST ID - 5a96fcb0-b174-48df-972c-8dbf302aa952 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT-105| TIMESTAMP- 223
+01:49:32,711 root DEBUG Received envelope money| REQUEST ID - 5a96fcb0-b174-48df-972c-8dbf302aa952 | AMOUNT - 105| RECEIVER - ubuntu03
+01:49:32,868 root DEBUG Sending ACK message | REQUEST ID - ff46e7c5-9ac9-4fd4-b12e-1d45277e0c42 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 68| TIMESTAMP- 229
+01:49:32,869 root DEBUG Received envelope money| REQUEST ID - ff46e7c5-9ac9-4fd4-b12e-1d45277e0c42 | AMOUNT - 68| RECEIVER - ubuntu02
+01:49:33,553 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - fd830917-cf79-47ac-9a2b-0a426a831918 | SENDER- ubuntu01 | AMOUNT- 4 TIMESTAMP- 237
+01:49:33,555 root DEBUG Receiving ACK message | REQUEST ID - fd830917-cf79-47ac-9a2b-0a426a831918 | SENDER- ubuntu02 | AMOUNT - 4 | TIMESTAMP- 240
+01:49:33,555 root DEBUG Receiving ACK message | REQUEST ID - fd830917-cf79-47ac-9a2b-0a426a831918 | SENDER- ubuntu01 | AMOUNT - 4 | TIMESTAMP- 241
+01:49:33,555 root DEBUG Sending Release resource message | REQUEST ID - fd830917-cf79-47ac-9a2b-0a426a831918 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT-4| TIMESTAMP- 242
+01:49:33,556 root DEBUG Received envelope money| REQUEST ID - fd830917-cf79-47ac-9a2b-0a426a831918 | AMOUNT - 4| RECEIVER - ubuntu03
+01:49:33,688 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:49:34,177 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:49:34,210 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:49:34,224 root DEBUG Sending ACK message | REQUEST ID - 8a6ed55b-300b-4dd9-8622-0157edc067b5 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 24| TIMESTAMP- 248
+01:49:34,225 root DEBUG Received envelope money| REQUEST ID - 8a6ed55b-300b-4dd9-8622-0157edc067b5 | AMOUNT - 24| RECEIVER - ubuntu01
+01:49:34,700 root DEBUG Sending red envelope | REQUEST ID - c840a0eb-0aa1-49ac-9b86-1126a216329a | SENDER - ubuntu03 | AMOUNT- 64 TIMESTAMP 254
+01:49:34,796 root DEBUG Sending ACK message | REQUEST ID - 83ece6f9-b0b5-449d-a09d-bd949b2e18ec | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 109| TIMESTAMP- 259
+01:49:34,797 root DEBUG Received envelope money| REQUEST ID - 83ece6f9-b0b5-449d-a09d-bd949b2e18ec | AMOUNT - 109| RECEIVER - ubuntu01
+01:49:36,302 root DEBUG Sending ACK message | REQUEST ID - c840a0eb-0aa1-49ac-9b86-1126a216329a | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 64| TIMESTAMP- 271
+01:49:36,303 root DEBUG Received envelope money| REQUEST ID - c840a0eb-0aa1-49ac-9b86-1126a216329a | AMOUNT - 64| RECEIVER - ubuntu01
+01:49:36,306 root DEBUG Sending ACK message | REQUEST ID - c840a0eb-0aa1-49ac-9b86-1126a216329a | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 64| TIMESTAMP- 278
+01:49:36,703 root DEBUG Sending red envelope | REQUEST ID - 68854d62-cbdd-4e15-a193-31392dd1183a | SENDER - ubuntu03 | AMOUNT- 16 TIMESTAMP 279
+01:49:36,799 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:49:36,985 root DEBUG Sending ACK message | REQUEST ID - 11d46c52-f9ff-4cbf-9920-347e2f0d2eda | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 137| TIMESTAMP- 286
+01:49:36,987 root DEBUG Received envelope money| REQUEST ID - 11d46c52-f9ff-4cbf-9920-347e2f0d2eda | AMOUNT - 137| RECEIVER - ubuntu01
+01:49:37,836 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:49:38,489 root DEBUG Sending ACK message | REQUEST ID - 68854d62-cbdd-4e15-a193-31392dd1183a | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 16| TIMESTAMP- 298
+01:49:38,490 root DEBUG Received envelope money| REQUEST ID - 68854d62-cbdd-4e15-a193-31392dd1183a | AMOUNT - 16| RECEIVER - ubuntu01
+01:49:38,706 root DEBUG Sending red envelope | REQUEST ID - d8b728a5-883f-49b5-aa8b-e439febbe313 | SENDER - ubuntu03 | AMOUNT- 178 TIMESTAMP 304
+01:49:38,798 root DEBUG Sending ACK message | REQUEST ID - d8b728a5-883f-49b5-aa8b-e439febbe313 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 178| TIMESTAMP- 308
+01:49:38,800 root DEBUG Received envelope money| REQUEST ID - d8b728a5-883f-49b5-aa8b-e439febbe313 | AMOUNT - 178| RECEIVER - ubuntu02
+01:49:38,862 root DEBUG Sending ACK message | REQUEST ID - 4e07e1a0-ebfe-4de5-9b7d-a5d5e0a211a6 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 23| TIMESTAMP- 319
+01:49:38,863 root DEBUG Received envelope money| REQUEST ID - 4e07e1a0-ebfe-4de5-9b7d-a5d5e0a211a6 | AMOUNT - 23| RECEIVER - ubuntu02
+01:49:38,917 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - 1c6287d0-2327-4892-a603-a521ebeae340 | SENDER- ubuntu02 | AMOUNT- 97 TIMESTAMP- 326
+01:49:38,918 root DEBUG Receiving ACK message | REQUEST ID - 1c6287d0-2327-4892-a603-a521ebeae340 | SENDER- ubuntu02 | AMOUNT - 97 | TIMESTAMP- 329
+01:49:38,918 root DEBUG Receiving ACK message | REQUEST ID - 1c6287d0-2327-4892-a603-a521ebeae340 | SENDER- ubuntu01 | AMOUNT - 97 | TIMESTAMP- 330
+01:49:38,919 root DEBUG Sending Release resource message | REQUEST ID - 1c6287d0-2327-4892-a603-a521ebeae340 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT-97| TIMESTAMP- 331
+01:49:38,920 root DEBUG Received envelope money| REQUEST ID - 1c6287d0-2327-4892-a603-a521ebeae340 | AMOUNT - 97| RECEIVER - ubuntu03
+01:49:38,933 root DEBUG Sending ACK message | REQUEST ID - d46de202-7213-4d9c-aa53-b25562a4dca6 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 117| TIMESTAMP- 337
+01:49:38,934 root DEBUG Received envelope money| REQUEST ID - d46de202-7213-4d9c-aa53-b25562a4dca6 | AMOUNT - 117| RECEIVER - ubuntu02
+01:49:39,298 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:49:39,385 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:49:40,709 root DEBUG Sending red envelope | REQUEST ID - a99ef7e3-6b4a-4264-bf29-444956ac3d25 | SENDER - ubuntu03 | AMOUNT- 167 TIMESTAMP 343
+01:49:41,198 root DEBUG Sending ACK message | REQUEST ID - a99ef7e3-6b4a-4264-bf29-444956ac3d25 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 167| TIMESTAMP- 349
+01:49:41,199 root DEBUG Received envelope money| REQUEST ID - a99ef7e3-6b4a-4264-bf29-444956ac3d25 | AMOUNT - 167| RECEIVER - ubuntu02
+01:49:41,344 root DEBUG Sending ACK message | REQUEST ID - 45422372-509c-448b-995e-3feba80c2587 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 70| TIMESTAMP- 360
+01:49:41,345 root DEBUG Received envelope money| REQUEST ID - 45422372-509c-448b-995e-3feba80c2587 | AMOUNT - 70| RECEIVER - ubuntu02
+01:49:42,187 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:49:42,277 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - 4cf187f3-ed40-409d-a0d1-9991c6c7f0a2 | SENDER- ubuntu01 | AMOUNT- 180 TIMESTAMP- 368
+01:49:42,278 root DEBUG Receiving ACK message | REQUEST ID - 4cf187f3-ed40-409d-a0d1-9991c6c7f0a2 | SENDER- ubuntu02 | AMOUNT - 180 | TIMESTAMP- 371
+01:49:42,278 root DEBUG Receiving ACK message | REQUEST ID - 4cf187f3-ed40-409d-a0d1-9991c6c7f0a2 | SENDER- ubuntu01 | AMOUNT - 180 | TIMESTAMP- 372
+01:49:42,279 root DEBUG Sending Release resource message | REQUEST ID - 4cf187f3-ed40-409d-a0d1-9991c6c7f0a2 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT-180| TIMESTAMP- 373
+01:49:42,279 root DEBUG Received envelope money| REQUEST ID - 4cf187f3-ed40-409d-a0d1-9991c6c7f0a2 | AMOUNT - 180| RECEIVER - ubuntu03
+01:49:42,429 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - 83f75ec4-9b0c-44b0-b0a1-126ff1078117 | SENDER- ubuntu02 | AMOUNT- 70 TIMESTAMP- 379
+01:49:42,430 root DEBUG Receiving ACK message | REQUEST ID - 83f75ec4-9b0c-44b0-b0a1-126ff1078117 | SENDER- ubuntu02 | AMOUNT - 70 | TIMESTAMP- 382
+01:49:42,430 root DEBUG Receiving ACK message | REQUEST ID - 83f75ec4-9b0c-44b0-b0a1-126ff1078117 | SENDER- ubuntu01 | AMOUNT - 70 | TIMESTAMP- 383
+01:49:42,431 root DEBUG Sending Release resource message | REQUEST ID - 83f75ec4-9b0c-44b0-b0a1-126ff1078117 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT-70| TIMESTAMP- 384
+01:49:42,432 root DEBUG Received envelope money| REQUEST ID - 83f75ec4-9b0c-44b0-b0a1-126ff1078117 | AMOUNT - 70| RECEIVER - ubuntu03
+01:49:42,712 root DEBUG Sending red envelope | REQUEST ID - d5294dfe-f044-4d50-b77c-a54b97f42d58 | SENDER - ubuntu03 | AMOUNT- 25 TIMESTAMP 389
+01:49:43,127 root DEBUG Sending ACK message | REQUEST ID - d5294dfe-f044-4d50-b77c-a54b97f42d58 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 25| TIMESTAMP- 393
+01:49:43,128 root DEBUG Received envelope money| REQUEST ID - d5294dfe-f044-4d50-b77c-a54b97f42d58 | AMOUNT - 25| RECEIVER - ubuntu01
+01:49:43,890 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - cefe46f8-6d9d-4b7e-9135-92be9bbe5c9c | SENDER- ubuntu02 | AMOUNT- 73 TIMESTAMP- 400
+01:49:43,891 root DEBUG Receiving ACK message | REQUEST ID - cefe46f8-6d9d-4b7e-9135-92be9bbe5c9c | SENDER- ubuntu01 | AMOUNT - 73 | TIMESTAMP- 404
+01:49:43,892 root DEBUG Receiving ACK message | REQUEST ID - cefe46f8-6d9d-4b7e-9135-92be9bbe5c9c | SENDER- ubuntu02 | AMOUNT - 73 | TIMESTAMP- 405
+01:49:43,892 root DEBUG Sending Release resource message | REQUEST ID - cefe46f8-6d9d-4b7e-9135-92be9bbe5c9c | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT-73| TIMESTAMP- 406
+01:49:43,893 root DEBUG Received envelope money| REQUEST ID - cefe46f8-6d9d-4b7e-9135-92be9bbe5c9c | AMOUNT - 73| RECEIVER - ubuntu03
+01:49:44,714 root DEBUG Sending red envelope | REQUEST ID - 368f9e8a-c87e-4622-adba-e4dd01ce5225 | SENDER - ubuntu03 | AMOUNT- 59 TIMESTAMP 411
+01:49:44,870 root DEBUG Sending ACK message | REQUEST ID - 368f9e8a-c87e-4622-adba-e4dd01ce5225 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 59| TIMESTAMP- 415
+01:49:44,871 root DEBUG Received envelope money| REQUEST ID - 368f9e8a-c87e-4622-adba-e4dd01ce5225 | AMOUNT - 59| RECEIVER - ubuntu01
+01:49:46,18 root DEBUG Sending ACK message | REQUEST ID - e2b10c26-bcb7-461d-9d80-f99ffb0bc069 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 11| TIMESTAMP- 427
+01:49:46,20 root DEBUG Received envelope money| REQUEST ID - e2b10c26-bcb7-461d-9d80-f99ffb0bc069 | AMOUNT - 11| RECEIVER - ubuntu02
+01:49:46,717 root DEBUG Sending red envelope | REQUEST ID - 84c6a146-ab79-4163-b322-2c8e067bf6a4 | SENDER - ubuntu03 | AMOUNT- 7 TIMESTAMP 433
+01:49:46,892 root DEBUG Sending ACK message | REQUEST ID - 84c6a146-ab79-4163-b322-2c8e067bf6a4 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 7| TIMESTAMP- 437
+01:49:46,893 root DEBUG Received envelope money| REQUEST ID - 84c6a146-ab79-4163-b322-2c8e067bf6a4 | AMOUNT - 7| RECEIVER - ubuntu01
+01:49:47,380 root DEBUG Sending ACK message | REQUEST ID - 261ec6ce-cdee-4054-903e-939fbb866af7 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 7| TIMESTAMP- 448
+01:49:47,381 root DEBUG Received envelope money| REQUEST ID - 261ec6ce-cdee-4054-903e-939fbb866af7 | AMOUNT - 7| RECEIVER - ubuntu01
+01:49:47,383 root DEBUG Sending ACK message | REQUEST ID - 856e1ee7-46ee-4f99-9abd-e57699134916 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 48| TIMESTAMP- 455
+01:49:47,384 root DEBUG Received envelope money| REQUEST ID - 856e1ee7-46ee-4f99-9abd-e57699134916 | AMOUNT - 48| RECEIVER - ubuntu01
+01:49:47,392 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:49:48,58 root DEBUG Sending ACK message | REQUEST ID - 51c96d08-831e-4f44-adc4-a722d3ccd0a0 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 91| TIMESTAMP- 467
+01:49:48,59 root DEBUG Received envelope money| REQUEST ID - 51c96d08-831e-4f44-adc4-a722d3ccd0a0 | AMOUNT - 91| RECEIVER - ubuntu02
+01:49:48,434 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:49:48,658 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - ce38db11-8d12-49af-bd1c-3c5a36c25d9e | SENDER- ubuntu02 | AMOUNT- 20 TIMESTAMP- 477
+01:49:48,659 root DEBUG Receiving ACK message | REQUEST ID - ce38db11-8d12-49af-bd1c-3c5a36c25d9e | SENDER- ubuntu01 | AMOUNT - 20 | TIMESTAMP- 480
+01:49:48,660 root DEBUG Receiving ACK message | REQUEST ID - ce38db11-8d12-49af-bd1c-3c5a36c25d9e | SENDER- ubuntu02 | AMOUNT - 20 | TIMESTAMP- 481
+01:49:48,660 root DEBUG Sending Release resource message | REQUEST ID - ce38db11-8d12-49af-bd1c-3c5a36c25d9e | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT-20| TIMESTAMP- 482
+01:49:48,661 root DEBUG Received envelope money| REQUEST ID - ce38db11-8d12-49af-bd1c-3c5a36c25d9e | AMOUNT - 20| RECEIVER - ubuntu03
+01:49:48,720 root DEBUG Sending red envelope | REQUEST ID - 5c4d0555-44c2-4e03-8d05-71d31f7ea26c | SENDER - ubuntu03 | AMOUNT- 100 TIMESTAMP 487
+01:49:49,222 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - 8b62f53e-a8a8-46bd-8ea3-f5c07a4bf810 | SENDER- ubuntu01 | AMOUNT- 130 TIMESTAMP- 489
+01:49:49,223 root DEBUG Receiving ACK message | REQUEST ID - 8b62f53e-a8a8-46bd-8ea3-f5c07a4bf810 | SENDER- ubuntu01 | AMOUNT - 130 | TIMESTAMP- 492
+01:49:49,224 root DEBUG Receiving ACK message | REQUEST ID - 8b62f53e-a8a8-46bd-8ea3-f5c07a4bf810 | SENDER- ubuntu02 | AMOUNT - 130 | TIMESTAMP- 493
+01:49:49,224 root DEBUG Sending Release resource message | REQUEST ID - 8b62f53e-a8a8-46bd-8ea3-f5c07a4bf810 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT-130| TIMESTAMP- 494
+01:49:49,225 root DEBUG Received envelope money| REQUEST ID - 8b62f53e-a8a8-46bd-8ea3-f5c07a4bf810 | AMOUNT - 130| RECEIVER - ubuntu03
+01:49:49,388 root DEBUG Sending ACK message | REQUEST ID - 5c4d0555-44c2-4e03-8d05-71d31f7ea26c | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 100| TIMESTAMP- 500
+01:49:49,390 root DEBUG Received envelope money| REQUEST ID - 5c4d0555-44c2-4e03-8d05-71d31f7ea26c | AMOUNT - 100| RECEIVER - ubuntu01
+01:49:50,723 root DEBUG Sending red envelope | REQUEST ID - 81c25ffe-a640-44de-a5fc-d232fb4f2a00 | SENDER - ubuntu03 | AMOUNT- 164 TIMESTAMP 506
+01:49:50,886 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:49:51,364 root DEBUG Sending ACK message | REQUEST ID - 81c25ffe-a640-44de-a5fc-d232fb4f2a00 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 164| TIMESTAMP- 510
+01:49:51,366 root DEBUG Received envelope money| REQUEST ID - 81c25ffe-a640-44de-a5fc-d232fb4f2a00 | AMOUNT - 164| RECEIVER - ubuntu02
+01:49:51,794 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - bf40da97-0ab5-42b0-a23f-35a80b795f63 | SENDER- ubuntu02 | AMOUNT- 169 TIMESTAMP- 517
+01:49:51,795 root DEBUG Receiving ACK message | REQUEST ID - bf40da97-0ab5-42b0-a23f-35a80b795f63 | SENDER- ubuntu01 | AMOUNT - 169 | TIMESTAMP- 520
+01:49:51,796 root DEBUG Receiving ACK message | REQUEST ID - bf40da97-0ab5-42b0-a23f-35a80b795f63 | SENDER- ubuntu02 | AMOUNT - 169 | TIMESTAMP- 521
+01:49:51,796 root DEBUG Sending Release resource message | REQUEST ID - bf40da97-0ab5-42b0-a23f-35a80b795f63 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT-169| TIMESTAMP- 522
+01:49:51,797 root DEBUG Received envelope money| REQUEST ID - bf40da97-0ab5-42b0-a23f-35a80b795f63 | AMOUNT - 169| RECEIVER - ubuntu03
+01:49:52,395 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - 2ec06be9-0654-417b-a75b-1a7efd0961fc | SENDER- ubuntu01 | AMOUNT- 170 TIMESTAMP- 528
+01:49:52,396 root DEBUG Receiving ACK message | REQUEST ID - 2ec06be9-0654-417b-a75b-1a7efd0961fc | SENDER- ubuntu02 | AMOUNT - 170 | TIMESTAMP- 531
+01:49:52,397 root DEBUG Receiving ACK message | REQUEST ID - 2ec06be9-0654-417b-a75b-1a7efd0961fc | SENDER- ubuntu01 | AMOUNT - 170 | TIMESTAMP- 532
+01:49:52,397 root DEBUG Sending Release resource message | REQUEST ID - 2ec06be9-0654-417b-a75b-1a7efd0961fc | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT-170| TIMESTAMP- 533
+01:49:52,399 root DEBUG Received envelope money| REQUEST ID - 2ec06be9-0654-417b-a75b-1a7efd0961fc | AMOUNT - 170| RECEIVER - ubuntu03
+01:49:52,712 root DEBUG Sending ACK message | REQUEST ID - 3a9bebcd-71b4-4846-ac93-84d3fa089d31 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 67| TIMESTAMP- 540
+01:49:52,714 root DEBUG Received envelope money| REQUEST ID - 3a9bebcd-71b4-4846-ac93-84d3fa089d31 | AMOUNT - 67| RECEIVER - ubuntu02
+01:49:52,726 root DEBUG Sending red envelope | REQUEST ID - 76b6e3f2-edf1-4b73-882c-aa22cacbfa6e | SENDER - ubuntu03 | AMOUNT- 3 TIMESTAMP 546
+01:49:52,957 root DEBUG Sending ACK message | REQUEST ID - d9890aa7-f539-4746-873c-8469f603bc82 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 133| TIMESTAMP- 549
+01:49:52,959 root DEBUG Received envelope money| REQUEST ID - d9890aa7-f539-4746-873c-8469f603bc82 | AMOUNT - 133| RECEIVER - ubuntu01
+01:49:52,979 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:49:54,92 root DEBUG Sending ACK message | REQUEST ID - 76b6e3f2-edf1-4b73-882c-aa22cacbfa6e | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 3| TIMESTAMP- 561
+01:49:54,93 root DEBUG Received envelope money| REQUEST ID - 76b6e3f2-edf1-4b73-882c-aa22cacbfa6e | AMOUNT - 3| RECEIVER - ubuntu01
+01:49:54,476 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:49:54,728 root DEBUG Sending red envelope | REQUEST ID - 54f64e64-b648-434d-84fe-0383f57744cc | SENDER - ubuntu03 | AMOUNT- 160 TIMESTAMP 567
+01:49:54,987 root DEBUG Sending ACK message | REQUEST ID - 54f64e64-b648-434d-84fe-0383f57744cc | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 160| TIMESTAMP- 571
+01:49:54,988 root DEBUG Received envelope money| REQUEST ID - 54f64e64-b648-434d-84fe-0383f57744cc | AMOUNT - 160| RECEIVER - ubuntu02
+01:49:55,287 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:49:55,361 root DEBUG Sending ACK message | REQUEST ID - a9dd1a9c-d3b3-44ce-9451-2cd0f043e00f | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 3| TIMESTAMP- 580
+01:49:55,362 root DEBUG Received envelope money| REQUEST ID - a9dd1a9c-d3b3-44ce-9451-2cd0f043e00f | AMOUNT - 3| RECEIVER - ubuntu01
+01:49:56,731 root DEBUG Sending red envelope | REQUEST ID - 6068e4fa-4a2a-4602-9b07-d0940f2d53a8 | SENDER - ubuntu03 | AMOUNT- 137 TIMESTAMP 586
+01:49:57,329 root DEBUG Sending ACK message | REQUEST ID - 55a5aae5-debe-437a-bfd0-7f57f18ab670 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 52| TIMESTAMP- 592
+01:49:57,330 root DEBUG Received envelope money| REQUEST ID - 55a5aae5-debe-437a-bfd0-7f57f18ab670 | AMOUNT - 52| RECEIVER - ubuntu02
+01:49:58,82 root DEBUG Sending ACK message | REQUEST ID - 6da61d05-40b6-4834-a4c1-f4389c64ca1e | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 185| TIMESTAMP- 603
+01:49:58,83 root DEBUG Received envelope money| REQUEST ID - 6da61d05-40b6-4834-a4c1-f4389c64ca1e | AMOUNT - 185| RECEIVER - ubuntu02
+01:49:58,635 root DEBUG Sending ACK message | REQUEST ID - aa04045a-c7e3-4ba0-b802-153a9a6fb1bc | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 146| TIMESTAMP- 612
+01:49:58,636 root DEBUG Received envelope money| REQUEST ID - aa04045a-c7e3-4ba0-b802-153a9a6fb1bc | AMOUNT - 146| RECEIVER - ubuntu01
+01:49:58,735 root DEBUG Sending red envelope | REQUEST ID - 313113a6-ff61-4a4d-b37f-483dcc66329e | SENDER - ubuntu03 | AMOUNT- 165 TIMESTAMP 618
+01:49:58,784 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:49:59,933 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:50:00,132 root DEBUG Sending ACK message | REQUEST ID - 5cf6e096-1e77-4363-94a8-e20e19787dfb | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 47| TIMESTAMP- 622
+01:50:00,134 root DEBUG Received envelope money| REQUEST ID - 5cf6e096-1e77-4363-94a8-e20e19787dfb | AMOUNT - 47| RECEIVER - ubuntu02
+01:50:00,547 root DEBUG Sending ACK message | REQUEST ID - 6068e4fa-4a2a-4602-9b07-d0940f2d53a8 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 137| TIMESTAMP- 633
+01:50:00,549 root DEBUG Received envelope money| REQUEST ID - 6068e4fa-4a2a-4602-9b07-d0940f2d53a8 | AMOUNT - 137| RECEIVER - ubuntu02
+01:50:00,737 root DEBUG Sending red envelope | REQUEST ID - c4b29d6c-7b99-4384-9c22-c1b2c8ec84f8 | SENDER - ubuntu03 | AMOUNT- 59 TIMESTAMP 639
+01:50:00,907 root DEBUG Sending ACK message | REQUEST ID - c60d80a9-e21e-49fb-97de-6cf16b09659d | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 117| TIMESTAMP- 645
+01:50:00,908 root DEBUG Received envelope money| REQUEST ID - c60d80a9-e21e-49fb-97de-6cf16b09659d | AMOUNT - 117| RECEIVER - ubuntu02
+01:50:01,241 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:50:01,318 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:50:01,765 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:50:01,945 root DEBUG Sending ACK message | REQUEST ID - 313113a6-ff61-4a4d-b37f-483dcc66329e | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 165| TIMESTAMP- 655
+01:50:01,947 root DEBUG Received envelope money| REQUEST ID - 313113a6-ff61-4a4d-b37f-483dcc66329e | AMOUNT - 165| RECEIVER - ubuntu01
+01:50:02,110 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - 6903fa5b-6760-4b7b-b71b-82e5ce11ebfb | SENDER- ubuntu01 | AMOUNT- 120 TIMESTAMP- 662
+01:50:02,111 root DEBUG Receiving ACK message | REQUEST ID - 6903fa5b-6760-4b7b-b71b-82e5ce11ebfb | SENDER- ubuntu01 | AMOUNT - 120 | TIMESTAMP- 665
+01:50:02,112 root DEBUG Receiving ACK message | REQUEST ID - 6903fa5b-6760-4b7b-b71b-82e5ce11ebfb | SENDER- ubuntu02 | AMOUNT - 120 | TIMESTAMP- 666
+01:50:02,112 root DEBUG Sending Release resource message | REQUEST ID - 6903fa5b-6760-4b7b-b71b-82e5ce11ebfb | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT-120| TIMESTAMP- 667
+01:50:02,113 root DEBUG Received envelope money| REQUEST ID - 6903fa5b-6760-4b7b-b71b-82e5ce11ebfb | AMOUNT - 120| RECEIVER - ubuntu03
+01:50:02,141 root DEBUG Sending ACK message | REQUEST ID - 4e464581-5848-4aa5-823d-b5e98f8de751 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 178| TIMESTAMP- 673
+01:50:02,142 root DEBUG Received envelope money| REQUEST ID - 4e464581-5848-4aa5-823d-b5e98f8de751 | AMOUNT - 178| RECEIVER - ubuntu01
+01:50:02,740 root DEBUG Sending red envelope | REQUEST ID - 3459b928-2062-4d48-8625-29aff414aaed | SENDER - ubuntu03 | AMOUNT- 171 TIMESTAMP 679
+01:50:03,622 root DEBUG Sending ACK message | REQUEST ID - c4b29d6c-7b99-4384-9c22-c1b2c8ec84f8 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 59| TIMESTAMP- 685
+01:50:03,623 root DEBUG Received envelope money| REQUEST ID - c4b29d6c-7b99-4384-9c22-c1b2c8ec84f8 | AMOUNT - 59| RECEIVER - ubuntu01
+01:50:04,329 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:50:04,473 root DEBUG Sending ACK message | REQUEST ID - 3459b928-2062-4d48-8625-29aff414aaed | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 171| TIMESTAMP- 696
+01:50:04,474 root DEBUG Received envelope money| REQUEST ID - 3459b928-2062-4d48-8625-29aff414aaed | AMOUNT - 171| RECEIVER - ubuntu01
+01:50:04,742 root DEBUG Sending red envelope | REQUEST ID - c1eb89c3-40e2-45df-89f5-3f9d1936622a | SENDER - ubuntu03 | AMOUNT- 179 TIMESTAMP 702
+01:50:04,753 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:50:05,2 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - f911ffe2-0e23-40a7-9587-30c9f7b1028f | SENDER- ubuntu01 | AMOUNT- 129 TIMESTAMP- 704
+01:50:05,3 root DEBUG Receiving ACK message | REQUEST ID - f911ffe2-0e23-40a7-9587-30c9f7b1028f | SENDER- ubuntu02 | AMOUNT - 129 | TIMESTAMP- 707
+01:50:05,3 root DEBUG Receiving ACK message | REQUEST ID - f911ffe2-0e23-40a7-9587-30c9f7b1028f | SENDER- ubuntu01 | AMOUNT - 129 | TIMESTAMP- 708
+01:50:05,4 root DEBUG Sending Release resource message | REQUEST ID - f911ffe2-0e23-40a7-9587-30c9f7b1028f | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT-129| TIMESTAMP- 709
+01:50:05,4 root DEBUG Received envelope money| REQUEST ID - f911ffe2-0e23-40a7-9587-30c9f7b1028f | AMOUNT - 129| RECEIVER - ubuntu03
+01:50:05,38 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - e4266cd4-6e0f-46a6-aa56-af76a43599cf | SENDER- ubuntu02 | AMOUNT- 86 TIMESTAMP- 715
+01:50:05,39 root DEBUG Receiving ACK message | REQUEST ID - e4266cd4-6e0f-46a6-aa56-af76a43599cf | SENDER- ubuntu02 | AMOUNT - 86 | TIMESTAMP- 718
+01:50:05,39 root DEBUG Receiving ACK message | REQUEST ID - e4266cd4-6e0f-46a6-aa56-af76a43599cf | SENDER- ubuntu01 | AMOUNT - 86 | TIMESTAMP- 719
+01:50:05,40 root DEBUG Sending Release resource message | REQUEST ID - e4266cd4-6e0f-46a6-aa56-af76a43599cf | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT-86| TIMESTAMP- 720
+01:50:05,40 root DEBUG Received envelope money| REQUEST ID - e4266cd4-6e0f-46a6-aa56-af76a43599cf | AMOUNT - 86| RECEIVER - ubuntu03
+01:50:05,330 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - 3199e03b-c12b-46a6-9c03-ede98162d53c | SENDER- ubuntu02 | AMOUNT- 90 TIMESTAMP- 726
+01:50:05,331 root DEBUG Receiving ACK message | REQUEST ID - 3199e03b-c12b-46a6-9c03-ede98162d53c | SENDER- ubuntu02 | AMOUNT - 90 | TIMESTAMP- 729
+01:50:05,331 root DEBUG Receiving ACK message | REQUEST ID - 3199e03b-c12b-46a6-9c03-ede98162d53c | SENDER- ubuntu01 | AMOUNT - 90 | TIMESTAMP- 730
+01:50:05,331 root DEBUG Sending Release resource message | REQUEST ID - 3199e03b-c12b-46a6-9c03-ede98162d53c | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT-90| TIMESTAMP- 731
+01:50:05,332 root DEBUG Received envelope money| REQUEST ID - 3199e03b-c12b-46a6-9c03-ede98162d53c | AMOUNT - 90| RECEIVER - ubuntu03
+01:50:05,428 root DEBUG Sending ACK message | REQUEST ID - c1eb89c3-40e2-45df-89f5-3f9d1936622a | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 179| TIMESTAMP- 737
+01:50:05,429 root DEBUG Received envelope money| REQUEST ID - c1eb89c3-40e2-45df-89f5-3f9d1936622a | AMOUNT - 179| RECEIVER - ubuntu02
+01:50:05,506 root DEBUG Sending ACK message | REQUEST ID - 29e7c137-14df-4f9c-bd71-26978293d340 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 92| TIMESTAMP- 746
+01:50:05,507 root DEBUG Received envelope money| REQUEST ID - 29e7c137-14df-4f9c-bd71-26978293d340 | AMOUNT - 92| RECEIVER - ubuntu01
+01:50:06,525 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:50:06,745 root DEBUG Sending red envelope | REQUEST ID - 074f22f7-84c6-4321-8875-e4ec39cf6741 | SENDER - ubuntu03 | AMOUNT- 32 TIMESTAMP 752
+01:50:07,210 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - 2c6690ed-be75-4097-98f3-a46a28713297 | SENDER- ubuntu01 | AMOUNT- 70 TIMESTAMP- 756
+01:50:07,211 root DEBUG Receiving ACK message | REQUEST ID - 2c6690ed-be75-4097-98f3-a46a28713297 | SENDER- ubuntu02 | AMOUNT - 70 | TIMESTAMP- 759
+01:50:07,211 root DEBUG Receiving ACK message | REQUEST ID - 2c6690ed-be75-4097-98f3-a46a28713297 | SENDER- ubuntu01 | AMOUNT - 70 | TIMESTAMP- 760
+01:50:07,211 root DEBUG Sending Release resource message | REQUEST ID - 2c6690ed-be75-4097-98f3-a46a28713297 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT-70| TIMESTAMP- 761
+01:50:07,212 root DEBUG Received envelope money| REQUEST ID - 2c6690ed-be75-4097-98f3-a46a28713297 | AMOUNT - 70| RECEIVER - ubuntu03
+01:50:07,574 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - 0f659de0-a95a-40a9-9f0d-0e966be6fdb4 | SENDER- ubuntu01 | AMOUNT- 161 TIMESTAMP- 767
+01:50:07,575 root DEBUG Receiving ACK message | REQUEST ID - 0f659de0-a95a-40a9-9f0d-0e966be6fdb4 | SENDER- ubuntu02 | AMOUNT - 161 | TIMESTAMP- 770
+01:50:07,575 root DEBUG Receiving ACK message | REQUEST ID - 0f659de0-a95a-40a9-9f0d-0e966be6fdb4 | SENDER- ubuntu01 | AMOUNT - 161 | TIMESTAMP- 771
+01:50:07,575 root DEBUG Sending Release resource message | REQUEST ID - 0f659de0-a95a-40a9-9f0d-0e966be6fdb4 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT-161| TIMESTAMP- 772
+01:50:07,576 root DEBUG Received envelope money| REQUEST ID - 0f659de0-a95a-40a9-9f0d-0e966be6fdb4 | AMOUNT - 161| RECEIVER - ubuntu03
+01:50:07,618 root DEBUG Sending ACK message | REQUEST ID - 074f22f7-84c6-4321-8875-e4ec39cf6741 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 32| TIMESTAMP- 778
+01:50:07,619 root DEBUG Received envelope money| REQUEST ID - 074f22f7-84c6-4321-8875-e4ec39cf6741 | AMOUNT - 32| RECEIVER - ubuntu01
+01:50:08,746 root DEBUG Sending red envelope | REQUEST ID - 997605e9-9cea-432c-8ea3-6ecd4cbdb562 | SENDER - ubuntu03 | AMOUNT- 149 TIMESTAMP 784
+01:50:09,218 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - 8b10fedf-d80d-47b0-86b2-bdba235c6d24 | SENDER- ubuntu02 | AMOUNT- 125 TIMESTAMP- 786
+01:50:09,219 root DEBUG Receiving ACK message | REQUEST ID - 8b10fedf-d80d-47b0-86b2-bdba235c6d24 | SENDER- ubuntu02 | AMOUNT - 125 | TIMESTAMP- 789
+01:50:09,219 root DEBUG Receiving ACK message | REQUEST ID - 8b10fedf-d80d-47b0-86b2-bdba235c6d24 | SENDER- ubuntu01 | AMOUNT - 125 | TIMESTAMP- 790
+01:50:09,220 root DEBUG Sending Release resource message | REQUEST ID - 8b10fedf-d80d-47b0-86b2-bdba235c6d24 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT-125| TIMESTAMP- 791
+01:50:09,220 root DEBUG Received envelope money| REQUEST ID - 8b10fedf-d80d-47b0-86b2-bdba235c6d24 | AMOUNT - 125| RECEIVER - ubuntu03
+01:50:10,130 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - bede1ac5-137b-4e90-8f57-a2989f7aa4f8 | SENDER- ubuntu02 | AMOUNT- 69 TIMESTAMP- 797
+01:50:10,131 root DEBUG Receiving ACK message | REQUEST ID - bede1ac5-137b-4e90-8f57-a2989f7aa4f8 | SENDER- ubuntu02 | AMOUNT - 69 | TIMESTAMP- 800
+01:50:10,131 root DEBUG Receiving ACK message | REQUEST ID - bede1ac5-137b-4e90-8f57-a2989f7aa4f8 | SENDER- ubuntu01 | AMOUNT - 69 | TIMESTAMP- 801
+01:50:10,131 root DEBUG Sending Release resource message | REQUEST ID - bede1ac5-137b-4e90-8f57-a2989f7aa4f8 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT-69| TIMESTAMP- 802
+01:50:10,133 root DEBUG Received envelope money| REQUEST ID - bede1ac5-137b-4e90-8f57-a2989f7aa4f8 | AMOUNT - 69| RECEIVER - ubuntu03
+01:50:10,548 root DEBUG Sending ACK message | REQUEST ID - bd116ef4-9340-4791-9efd-0471a2a12a18 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 157| TIMESTAMP- 808
+01:50:10,549 root DEBUG Received envelope money| REQUEST ID - bd116ef4-9340-4791-9efd-0471a2a12a18 | AMOUNT - 157| RECEIVER - ubuntu02
+01:50:10,749 root DEBUG Sending red envelope | REQUEST ID - 98401304-56f6-4d84-8857-56bf6a0b258f | SENDER - ubuntu03 | AMOUNT- 73 TIMESTAMP 814
+01:50:11,626 root DEBUG Sending ACK message | REQUEST ID - 997605e9-9cea-432c-8ea3-6ecd4cbdb562 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 149| TIMESTAMP- 818
+01:50:11,627 root DEBUG Received envelope money| REQUEST ID - 997605e9-9cea-432c-8ea3-6ecd4cbdb562 | AMOUNT - 149| RECEIVER - ubuntu01
+01:50:12,285 root DEBUG Sending ACK message | REQUEST ID - 98401304-56f6-4d84-8857-56bf6a0b258f | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 73| TIMESTAMP- 827
+01:50:12,286 root DEBUG Received envelope money| REQUEST ID - 98401304-56f6-4d84-8857-56bf6a0b258f | AMOUNT - 73| RECEIVER - ubuntu02
+01:50:12,752 root DEBUG Sending red envelope | REQUEST ID - 915ac700-dc2f-4c15-8d2a-f3b5493fbb82 | SENDER - ubuntu03 | AMOUNT- 157 TIMESTAMP 833
+01:50:13,470 root DEBUG Sending ACK message | REQUEST ID - 9ed36377-f1ca-4f7b-9044-9b09455f19c2 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 118| TIMESTAMP- 839
+01:50:13,473 root DEBUG Received envelope money| REQUEST ID - 9ed36377-f1ca-4f7b-9044-9b09455f19c2 | AMOUNT - 118| RECEIVER - ubuntu01
+01:50:13,564 root DEBUG Sending ACK message | REQUEST ID - 915ac700-dc2f-4c15-8d2a-f3b5493fbb82 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 157| TIMESTAMP- 848
+01:50:13,565 root DEBUG Received envelope money| REQUEST ID - 915ac700-dc2f-4c15-8d2a-f3b5493fbb82 | AMOUNT - 157| RECEIVER - ubuntu02
+01:50:13,765 root DEBUG Sending ACK message | REQUEST ID - a9e31f2e-b70c-4adf-91e3-89c24c1e3811 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 104| TIMESTAMP- 859
+01:50:13,766 root DEBUG Received envelope money| REQUEST ID - a9e31f2e-b70c-4adf-91e3-89c24c1e3811 | AMOUNT - 104| RECEIVER - ubuntu02
+01:50:14,102 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - f7aa442b-0c24-46fd-b7f6-a14620974c57 | SENDER- ubuntu01 | AMOUNT- 156 TIMESTAMP- 866
+01:50:14,105 root DEBUG Receiving ACK message | REQUEST ID - f7aa442b-0c24-46fd-b7f6-a14620974c57 | SENDER- ubuntu01 | AMOUNT - 156 | TIMESTAMP- 869
+01:50:14,105 root DEBUG Receiving ACK message | REQUEST ID - f7aa442b-0c24-46fd-b7f6-a14620974c57 | SENDER- ubuntu02 | AMOUNT - 156 | TIMESTAMP- 870
+01:50:14,106 root DEBUG Sending Release resource message | REQUEST ID - f7aa442b-0c24-46fd-b7f6-a14620974c57 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT-156| TIMESTAMP- 871
+01:50:14,107 root DEBUG Received envelope money| REQUEST ID - f7aa442b-0c24-46fd-b7f6-a14620974c57 | AMOUNT - 156| RECEIVER - ubuntu03
+01:50:14,125 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:50:14,653 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:50:14,754 root DEBUG Sending red envelope | REQUEST ID - 49fb57ec-e823-46ba-9f4c-18fbbae09a3d | SENDER - ubuntu03 | AMOUNT- 84 TIMESTAMP 876
+01:50:14,842 root DEBUG Sending ACK message | REQUEST ID - 49fb57ec-e823-46ba-9f4c-18fbbae09a3d | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 84| TIMESTAMP- 880
+01:50:14,843 root DEBUG Received envelope money| REQUEST ID - 49fb57ec-e823-46ba-9f4c-18fbbae09a3d | AMOUNT - 84| RECEIVER - ubuntu01
+01:50:15,578 root DEBUG Sending ACK message | REQUEST ID - 76aa0823-724a-4f81-a06e-a80fb98240c0 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 151| TIMESTAMP- 892
+01:50:15,579 root DEBUG Received envelope money| REQUEST ID - 76aa0823-724a-4f81-a06e-a80fb98240c0 | AMOUNT - 151| RECEIVER - ubuntu01
+01:50:16,105 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:50:16,756 root DEBUG Sending red envelope | REQUEST ID - 9f202275-3739-49e7-8cf8-0616adf5ba0e | SENDER - ubuntu03 | AMOUNT- 87 TIMESTAMP 898
+01:50:17,98 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - 3b259b83-bda6-491e-895f-19c5bd9ae52f | SENDER- ubuntu01 | AMOUNT- 173 TIMESTAMP- 900
+01:50:17,99 root DEBUG Receiving ACK message | REQUEST ID - 3b259b83-bda6-491e-895f-19c5bd9ae52f | SENDER- ubuntu01 | AMOUNT - 173 | TIMESTAMP- 903
+01:50:17,100 root DEBUG Receiving ACK message | REQUEST ID - 3b259b83-bda6-491e-895f-19c5bd9ae52f | SENDER- ubuntu02 | AMOUNT - 173 | TIMESTAMP- 904
+01:50:17,101 root DEBUG Sending Release resource message | REQUEST ID - 3b259b83-bda6-491e-895f-19c5bd9ae52f | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT-173| TIMESTAMP- 905
+01:50:17,102 root DEBUG Received envelope money| REQUEST ID - 3b259b83-bda6-491e-895f-19c5bd9ae52f | AMOUNT - 173| RECEIVER - ubuntu03
+01:50:17,388 root DEBUG Sending ACK message | REQUEST ID - 9f202275-3739-49e7-8cf8-0616adf5ba0e | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 87| TIMESTAMP- 911
+01:50:17,389 root DEBUG Received envelope money| REQUEST ID - 9f202275-3739-49e7-8cf8-0616adf5ba0e | AMOUNT - 87| RECEIVER - ubuntu02
+01:50:18,429 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:50:18,745 root DEBUG Sending ACK message | REQUEST ID - cc4a0056-a031-4882-aaff-7c3295a54a64 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 135| TIMESTAMP- 923
+01:50:18,746 root DEBUG Received envelope money| REQUEST ID - cc4a0056-a031-4882-aaff-7c3295a54a64 | AMOUNT - 135| RECEIVER - ubuntu02
+01:50:18,758 root DEBUG Sending red envelope | REQUEST ID - 382c6d5a-6681-4288-8ef8-d26ed3d34d1e | SENDER - ubuntu03 | AMOUNT- 89 TIMESTAMP 929
+01:50:18,839 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:50:18,926 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - e39a6e41-b5ef-44df-9cbf-abdbecb94355 | SENDER- ubuntu02 | AMOUNT- 107 TIMESTAMP- 931
+01:50:18,929 root DEBUG Receiving ACK message | REQUEST ID - e39a6e41-b5ef-44df-9cbf-abdbecb94355 | SENDER- ubuntu02 | AMOUNT - 107 | TIMESTAMP- 934
+01:50:18,929 root DEBUG Receiving ACK message | REQUEST ID - e39a6e41-b5ef-44df-9cbf-abdbecb94355 | SENDER- ubuntu01 | AMOUNT - 107 | TIMESTAMP- 935
+01:50:18,930 root DEBUG Sending Release resource message | REQUEST ID - e39a6e41-b5ef-44df-9cbf-abdbecb94355 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT-107| TIMESTAMP- 936
+01:50:18,930 root DEBUG Received envelope money| REQUEST ID - e39a6e41-b5ef-44df-9cbf-abdbecb94355 | AMOUNT - 107| RECEIVER - ubuntu03
+01:50:19,98 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - 731146e4-52d7-431f-943c-066cef8b78a5 | SENDER- ubuntu02 | AMOUNT- 8 TIMESTAMP- 942
+01:50:19,99 root DEBUG Receiving ACK message | REQUEST ID - 731146e4-52d7-431f-943c-066cef8b78a5 | SENDER- ubuntu02 | AMOUNT - 8 | TIMESTAMP- 945
+01:50:19,99 root DEBUG Receiving ACK message | REQUEST ID - 731146e4-52d7-431f-943c-066cef8b78a5 | SENDER- ubuntu01 | AMOUNT - 8 | TIMESTAMP- 946
+01:50:19,99 root DEBUG Sending Release resource message | REQUEST ID - 731146e4-52d7-431f-943c-066cef8b78a5 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT-8| TIMESTAMP- 947
+01:50:19,100 root DEBUG Received envelope money| REQUEST ID - 731146e4-52d7-431f-943c-066cef8b78a5 | AMOUNT - 8| RECEIVER - ubuntu03
+01:50:19,362 root DEBUG Sending ACK message | REQUEST ID - 382c6d5a-6681-4288-8ef8-d26ed3d34d1e | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 89| TIMESTAMP- 953
+01:50:19,363 root DEBUG Received envelope money| REQUEST ID - 382c6d5a-6681-4288-8ef8-d26ed3d34d1e | AMOUNT - 89| RECEIVER - ubuntu01
+01:50:19,746 root DEBUG Sending ACK message | REQUEST ID - b3187ecc-c365-44e6-98d0-6094453ead8d | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 17| TIMESTAMP- 965
+01:50:19,747 root DEBUG Received envelope money| REQUEST ID - b3187ecc-c365-44e6-98d0-6094453ead8d | AMOUNT - 17| RECEIVER - ubuntu01
+01:50:20,220 root DEBUG Sending ACK message | REQUEST ID - 7a5343a4-8427-40e8-ac06-9e79aaae9114 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 56| TIMESTAMP- 974
+01:50:20,221 root DEBUG Received envelope money| REQUEST ID - 7a5343a4-8427-40e8-ac06-9e79aaae9114 | AMOUNT - 56| RECEIVER - ubuntu02
+01:50:20,760 root DEBUG Sending red envelope | REQUEST ID - 7ed1fe7c-b521-43c1-9597-e21b6b90b8fd | SENDER - ubuntu03 | AMOUNT- 76 TIMESTAMP 980
+01:50:21,326 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - a365402b-48e5-4b89-88ff-7153e6a3ba20 | SENDER- ubuntu02 | AMOUNT- 80 TIMESTAMP- 984
+01:50:21,327 root DEBUG Receiving ACK message | REQUEST ID - a365402b-48e5-4b89-88ff-7153e6a3ba20 | SENDER- ubuntu02 | AMOUNT - 80 | TIMESTAMP- 987
+01:50:21,327 root DEBUG Receiving ACK message | REQUEST ID - a365402b-48e5-4b89-88ff-7153e6a3ba20 | SENDER- ubuntu01 | AMOUNT - 80 | TIMESTAMP- 988
+01:50:21,327 root DEBUG Sending Release resource message | REQUEST ID - a365402b-48e5-4b89-88ff-7153e6a3ba20 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT-80| TIMESTAMP- 989
+01:50:21,329 root DEBUG Received envelope money| REQUEST ID - a365402b-48e5-4b89-88ff-7153e6a3ba20 | AMOUNT - 80| RECEIVER - ubuntu03
+01:50:21,525 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:50:22,762 root DEBUG Sending red envelope | REQUEST ID - 5908a993-089e-4ff9-b0b3-37dbee262f79 | SENDER - ubuntu03 | AMOUNT- 15 TIMESTAMP 994
+01:50:23,478 root DEBUG Sending ACK message | REQUEST ID - 5908a993-089e-4ff9-b0b3-37dbee262f79 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 15| TIMESTAMP- 998
+01:50:23,479 root DEBUG Received envelope money| REQUEST ID - 5908a993-089e-4ff9-b0b3-37dbee262f79 | AMOUNT - 15| RECEIVER - ubuntu01
+01:50:24,150 root DEBUG Sending ACK message | REQUEST ID - ff6141ee-5aee-47f9-b912-23fbf5553114 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 176| TIMESTAMP- 1010
+01:50:24,152 root DEBUG Received envelope money| REQUEST ID - ff6141ee-5aee-47f9-b912-23fbf5553114 | AMOUNT - 176| RECEIVER - ubuntu01
+01:50:24,605 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:50:24,706 root DEBUG Sending ACK message | REQUEST ID - cc43c76c-3358-4c19-9af2-d591d5a5e336 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 149| TIMESTAMP- 1020
+01:50:24,706 root DEBUG Received envelope money| REQUEST ID - cc43c76c-3358-4c19-9af2-d591d5a5e336 | AMOUNT - 149| RECEIVER - ubuntu02
+01:50:24,764 root DEBUG Sending red envelope | REQUEST ID - bc0b6d4c-6287-4126-b7cc-57163216923d | SENDER - ubuntu03 | AMOUNT- 20 TIMESTAMP 1026
+01:50:24,772 root DEBUG Sending ACK message | REQUEST ID - bc5a7d42-4292-4caf-bc96-93e3ccc3f0c1 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 14| TIMESTAMP- 1031
+01:50:24,796 root DEBUG Received envelope money| REQUEST ID - bc5a7d42-4292-4caf-bc96-93e3ccc3f0c1 | AMOUNT - 14| RECEIVER - ubuntu02
+01:50:24,854 root DEBUG Sending ACK message | REQUEST ID - 5d28fdf0-365a-44c0-af6c-3139306e969b | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 109| TIMESTAMP- 1040
+01:50:24,855 root DEBUG Received envelope money| REQUEST ID - 5d28fdf0-365a-44c0-af6c-3139306e969b | AMOUNT - 109| RECEIVER - ubuntu01
+01:50:24,860 root DEBUG Sending ACK message | REQUEST ID - 7ed1fe7c-b521-43c1-9597-e21b6b90b8fd | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 76| TIMESTAMP- 1049
+01:50:24,861 root DEBUG Received envelope money| REQUEST ID - 7ed1fe7c-b521-43c1-9597-e21b6b90b8fd | AMOUNT - 76| RECEIVER - ubuntu02
+01:50:25,888 root DEBUG Sending ACK message | REQUEST ID - dcda3533-2044-441e-a62a-e3c5c3aee7f2 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 40| TIMESTAMP- 1060
+01:50:25,890 root DEBUG Received envelope money| REQUEST ID - dcda3533-2044-441e-a62a-e3c5c3aee7f2 | AMOUNT - 40| RECEIVER - ubuntu02
+01:50:26,273 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:50:26,385 root DEBUG Sending ACK message | REQUEST ID - bc0b6d4c-6287-4126-b7cc-57163216923d | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 20| TIMESTAMP- 1071
+01:50:26,390 root DEBUG Received envelope money| REQUEST ID - bc0b6d4c-6287-4126-b7cc-57163216923d | AMOUNT - 20| RECEIVER - ubuntu02
+01:50:26,569 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:50:26,585 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:50:26,766 root DEBUG Sending red envelope | REQUEST ID - c1ab5805-dc18-4f2e-9a80-62e8c048f4b8 | SENDER - ubuntu03 | AMOUNT- 75 TIMESTAMP 1077
+01:50:27,906 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - 8884d776-319d-4972-b2ee-bd02e307926b | SENDER- ubuntu01 | AMOUNT- 90 TIMESTAMP- 1079
+01:50:27,907 root DEBUG Receiving ACK message | REQUEST ID - 8884d776-319d-4972-b2ee-bd02e307926b | SENDER- ubuntu01 | AMOUNT - 90 | TIMESTAMP- 1082
+01:50:27,907 root DEBUG Receiving ACK message | REQUEST ID - 8884d776-319d-4972-b2ee-bd02e307926b | SENDER- ubuntu02 | AMOUNT - 90 | TIMESTAMP- 1083
+01:50:27,908 root DEBUG Sending Release resource message | REQUEST ID - 8884d776-319d-4972-b2ee-bd02e307926b | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT-90| TIMESTAMP- 1084
+01:50:27,909 root DEBUG Received envelope money| REQUEST ID - 8884d776-319d-4972-b2ee-bd02e307926b | AMOUNT - 90| RECEIVER - ubuntu03
+01:50:28,506 root DEBUG Sending ACK message | REQUEST ID - 3e5ea80e-bb8b-42c0-be68-6e9bed66da49 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 93| TIMESTAMP- 1090
+01:50:28,507 root DEBUG Received envelope money| REQUEST ID - 3e5ea80e-bb8b-42c0-be68-6e9bed66da49 | AMOUNT - 93| RECEIVER - ubuntu01
+01:50:28,558 root DEBUG Sending ACK message | REQUEST ID - c1ab5805-dc18-4f2e-9a80-62e8c048f4b8 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 75| TIMESTAMP- 1101
+01:50:28,559 root DEBUG Received envelope money| REQUEST ID - c1ab5805-dc18-4f2e-9a80-62e8c048f4b8 | AMOUNT - 75| RECEIVER - ubuntu01
+01:50:28,768 root DEBUG Sending red envelope | REQUEST ID - 4c7fbf02-30ff-4dd5-bff0-7d88ebd785bb | SENDER - ubuntu03 | AMOUNT- 35 TIMESTAMP 1107
+01:50:28,882 root DEBUG Sending ACK message | REQUEST ID - cdbbcb03-3483-45db-b44d-1a786b7e1f64 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT- 94| TIMESTAMP- 1112
+01:50:28,883 root DEBUG Received envelope money| REQUEST ID - cdbbcb03-3483-45db-b44d-1a786b7e1f64 | AMOUNT - 94| RECEIVER - ubuntu01
+01:50:29,548 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:50:29,841 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:50:29,978 root DEBUG ubuntu03 wants to open the envelope | REQUEST ID - e29e284a-516e-4d84-b793-457fd586cde1 | SENDER- ubuntu01 | AMOUNT- 200 TIMESTAMP- 1122
+01:50:29,979 root DEBUG Receiving ACK message | REQUEST ID - e29e284a-516e-4d84-b793-457fd586cde1 | SENDER- ubuntu02 | AMOUNT - 200 | TIMESTAMP- 1125
+01:50:29,979 root DEBUG Receiving ACK message | REQUEST ID - e29e284a-516e-4d84-b793-457fd586cde1 | SENDER- ubuntu01 | AMOUNT - 200 | TIMESTAMP- 1126
+01:50:29,980 root DEBUG Sending Release resource message | REQUEST ID - e29e284a-516e-4d84-b793-457fd586cde1 | SENDER- ubuntu03 | CLAIMER- ubuntu01 | AMOUNT-200| TIMESTAMP- 1127
+01:50:29,981 root DEBUG Received envelope money| REQUEST ID - e29e284a-516e-4d84-b793-457fd586cde1 | AMOUNT - 200| RECEIVER - ubuntu03
+01:50:30,770 root DEBUG Sending red envelope | REQUEST ID - 535631cd-735c-490b-be1c-2da4c19190b1 | SENDER - ubuntu03 | AMOUNT- 145 TIMESTAMP 1132
+01:50:32,97 root DEBUG Sending ACK message | REQUEST ID - 535631cd-735c-490b-be1c-2da4c19190b1 | SENDER- ubuntu03 | CLAIMER- ubuntu02 | AMOUNT- 145| TIMESTAMP- 1136
+01:50:32,329 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
+01:50:33,321 root DEBUG Host: ubuntu03 can't get the money since the envelope has already been opened
